@@ -23,13 +23,11 @@ It reduces manual intervention by handling approvals, assignments, and status up
 - JavaScript (Server-side scripting)  
 
 ---
+## 🎥 Demo Video
+[Click here to watch demo](https://drive.google.com/file/d/1VlXzFWulLS5vyZwfOtP7_oMYfLAYAWnJ/view?usp=drivesdk)
 
-##  Demo Video
-
----
-
-##  Documentation
-
+## 📄 Documentation
+[Click here to view documentation](YOUR_DOCUMENT_LINK_HERE)
 
 ---
 
