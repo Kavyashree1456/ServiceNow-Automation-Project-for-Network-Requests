@@ -26,10 +26,8 @@ It reduces manual intervention by handling approvals, assignments, and status up
 ## 🎥 Demo Video
 [Click here to watch demo](https://drive.google.com/file/d/1VlXzFWulLS5vyZwfOtP7_oMYfLAYAWnJ/view?usp=drivesdk)
 
-## 📄 Documentation
-[Click here to view documentation](YOUR_DOCUMENT_LINK_HERE)
 
----
+
 
 ##  Use Case
 This system is useful in organizations where employees frequently raise network access requests (like VPN).  
